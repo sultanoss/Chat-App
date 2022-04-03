@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mychat-e5353": {
+      "hosting": {
+        "login-logout": [
+          "mychat-e5353"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mychat-e5353"
+  }
+}
